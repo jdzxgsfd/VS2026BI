@@ -1,0 +1,6 @@
+name:
+vs_BuildTools.exe
+link:
+https://aka.ms/vs/18/insiders/vs_BuildTools.exe
+zipBaseName:
+VS2026BuildTools.Insiders.
